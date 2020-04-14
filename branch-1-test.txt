@@ -1,2 +1,3 @@
 Dodaje linijke tekstu. costa tam co stam.
 
+Na branchu konfliktowym 2 dodaje trzecia linijke!!!
