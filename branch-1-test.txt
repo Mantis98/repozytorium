@@ -1,3 +1,7 @@
 Dodaje linijke tekstu. costa tam co stam.
 
+<<<<<<< HEAD
 Dodawanie drugiej liniki na branchu konfliktowym.
+=======
+Na branchu konfliktowym 2 dodaje trzecia linijke!!!
+>>>>>>> branch-conflict-2
